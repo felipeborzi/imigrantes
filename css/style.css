@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,700&display=swap');
+
+#t_container {
+    width: 500px;
+    margin: auto;
+    margin-top: 60px
+}
+
+#t_container_pd {
+    width: 900px;
+    margin: auto;
+    margin-top: 60px
+}
+
+#botton_rt {
+    text-align: right;
+}
+
+#mg_form {
+    margin-top: 50px;
+}
+
+#sucess_mensagem {
+    width: 300px;
+}
+
+#mg_con_menu {
+    margin-top: 100px;
+}
+
+#t_container_login {
+    width: 250px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    border: 2px solid #8e8a8a    
+}
+
+#t_container_borde {
+    padding: 10px;
+}
+
+#t_container_cad {
+    width: 350px;
+    margin: auto;
+    margin-top: 100px; 
+}
